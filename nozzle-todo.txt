@@ -1,0 +1,20 @@
+- API source of public data
+- Poll intermittently
+- Put a single message into state
+- Render components based on state
+- BG Color based on gradient
+
+- Filter bad words
+- Select short comments
+- Make all comments clickable to the source
+- Blend two subreddits (buttcoin and bitcoin?)
+- Filter automod
+- slowly add comments between each poll
+
+
+https://www.npmjs.com/package/tinygradient
+
+http://danielgorelick.com/scraping-venmo/
+
+https://venmo.com/api/v5/public
+https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-562fa8a91935

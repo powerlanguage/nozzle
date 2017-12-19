@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.5em;
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  margin: 0;
+  line-height: 1.2em;
+}
+
+#app {
+  margin: 0 auto;
+  word-break: break-word;
+}
+
+.comment {
+  padding: 1em 25%;
+}
