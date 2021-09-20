@@ -6,12 +6,12 @@
 body {
   background: #fff;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.5em;
+  font-size: 1.5rem;
   color: #fff;
   font-weight: 500;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02rem;
   margin: 0;
-  line-height: 1.2em;
+  line-height: 1.2rem;
 }
 
 #app {
@@ -20,5 +20,14 @@ body {
 }
 
 .comment {
-  padding: 1em 25%;
+  padding: 1rem 2rem;
+}
+
+.loading {
+  color: #000;
+  font-size: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
